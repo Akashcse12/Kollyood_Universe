@@ -1,0 +1,43 @@
+body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#heading{
+    color: white;
+    background: #000;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+}
+#content{
+    background-color: rgba(0,0,0,0.7);
+    height: 485px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    height: 125px; 
+    width: 125px;
+    border: 3px solid white;
+    border-radius: 60%;
+    margin-top: 18px;
+    margin-left: 18px;
+
+}
+#title{
+   
+    margin: auto;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 40px;
+    border-radius: 5px;
+    justify-content: space-around;
+    display: flex;
+}
